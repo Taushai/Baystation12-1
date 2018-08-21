@@ -8,18 +8,18 @@ ADDRESS localhost
 PORT 3306
 
 # Database the population, death, karma, etc. tables may be found in
-DATABASE feedback
+DATABASE 
 
 # Username/Login used to access the database
-LOGIN infinity
+LOGIN 
 
 # Password used to access the database
-PASSWORD password
+ 
 
 # The following information is for feedback tracking via the blackbox server
-FEEDBACK_DATABASE feedback
-FEEDBACK_LOGIN infinity
-FEEDBACK_PASSWORD password
+FEEDBACK_DATABASE 
+FEEDBACK_LOGIN
+FEEDBACK_PASSWORD 
 
 # Track population and death statistics
 # Comment this out to disable
